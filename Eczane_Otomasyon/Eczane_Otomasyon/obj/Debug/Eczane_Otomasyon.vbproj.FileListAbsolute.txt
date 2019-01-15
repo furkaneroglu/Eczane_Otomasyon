@@ -1,0 +1,17 @@
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\bin\Debug\Eczane_Otomasyon.exe.config
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\bin\Debug\Eczane_Otomasyon.exe
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\bin\Debug\Eczane_Otomasyon.pdb
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\bin\Debug\Eczane_Otomasyon.xml
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.vbprojAssemblyReference.cache
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.Resources.resources
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.vbproj.GenerateResource.cache
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.vbproj.CoreCompileInputs.cache
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.exe
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.xml
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.pdb
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.HastaEkle.resources
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.IlacEkle.resources
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.AnaForm.resources
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.SatisYap.resources
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.Sil.resources
+D:\Projeler\repos\Eczane_Otomasyon\Eczane_Otomasyon\obj\Debug\Eczane_Otomasyon.Duzenle.resources
